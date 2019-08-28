@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "CreditMgt.EasyNetQ.Publisher": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "Environment": "Development"
+      }
+    }
+  }
+}
